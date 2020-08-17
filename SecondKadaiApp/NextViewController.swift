@@ -1,6 +1,6 @@
 //
 //  NextViewController.swift
-//  SecondKadai
+//  SecondKadaiApp
 //
 //  Created by Ao Nagasawa on 2020/08/06.
 //  Copyright © 2020 Ao.Nagasawa. All rights reserved.
